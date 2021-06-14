@@ -3,7 +3,13 @@
 </h1>
 
 <h1 align="center">
-<img width="800" src="assets/img/presentation.mp4" alt="My cool logo"/>
+<img width="800" src="assets/img/presentation1.PNG" alt="My cool logo"/>
+  </h1>
+  <h1 align="center">
+<img width="800" src="assets/img/presentation2.PNG" alt="My cool logo"/>
+  </h1>
+  <h1 align="center">
+<img width="800" src="assets/img/presentation3.PNG" alt="My cool logo"/>
   </h1>
 
 <h3 align="center">
@@ -18,7 +24,7 @@
 
 ## 🔖&nbsp; About
 
-The Current Time is a project created in a Gustavo Guanabara's JS Course to practice JavaScript getting elements of "new Date()" function. 
+The Current Time is a project created in a Gustavo Guanabara's JS Course to practice JavaScript getting elements of "new Date()" function. The page changes the hour, the background color and the image acording to the current hour.
 
 
 ---
